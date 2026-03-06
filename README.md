@@ -77,6 +77,8 @@ It combines **passive & active scanning, protocol analysis, dark web crawling, a
 
 ---
 
+
+
 ## Installation
 
 ```bash
@@ -91,15 +93,16 @@ pip3 install -r requirements.txt
 Run ShadowMap 2.0:
 ```
 python3 shadowmap_2.0.py
-
-
-
 ```
+
+
 | Mode    | Description                                      |
 | ------- | ------------------------------------------------ |
 | Passive | Passive reconnaissance: subdomains, headers, SSL |
 | Active  | Active scanning: ports, banners, Nmap services   |
 | Anon    | Tor / Dark Web crawling and full anonymity       |
+
+
 
 
 | Contact | Info                                                    |
