@@ -97,3 +97,49 @@ git clone https://github.com/yonathanpy/ShadowMap.git
 cd ShadowMap
 chmod +x shadowmap_2.0.py
 pip3 install -r requirements.txt
+
+---
+
+## Usage
+
+```bash
+python3 shadowmap_2.0.py
+
+| Mode    | Description                                      |
+| ------- | ------------------------------------------------ |
+| Passive | Passive reconnaissance: subdomains, headers, SSL |
+| Active  | Active scanning: ports, banners, Nmap services   |
+| Anon    | Tor/Dark Web crawling and full anonymity         |
+
+
+Logging & Security
+
+All operations are logged locally in logs/shadowmap.log
+
+Unauthorized copying, modification, or replication is strictly prohibited
+
+All activity is monitored; local audit trails and security checks are enabled
+
+Reverse-engineering or attempts to modify the tool without permission may trigger internal logging mechanisms
+
+
+
+| Type                        | Details                                          |
+| --------------------------- | ------------------------------------------------ |
+| MIT                         | Core framework                                   |
+| All Rights Reserved         | Unauthorized use prohibited                      |
+| Proprietary Modules         | ShadowMap Advanced Tools                         |
+| Redistribution Prohibited   | Cloning, copying, or fork modification forbidden |
+| Modification Prohibited     | Unauthorized edits forbidden                     |
+| Derivative Works Prohibited | Reverse engineering or reuse forbidden           |
+| Commercial Use              | Forbidden without permission                     |
+| Observability               | Usage tracked locally                            |
+| Logging                     | Full audit trails                                |
+| Monitoring                  | Real-time security monitoring                    |
+
+
+| Contact | Info                                                    |
+| ------- | ------------------------------------------------------- |
+| Email   | [Witwizard001@proton.me](mailto:Witwizard001@proton.me) |
+| GitHub  | [yonathanpy](https://github.com/yonathanpy)             |
+| Profile | ShadowMap 2.0 - Offensive Security Research             |
